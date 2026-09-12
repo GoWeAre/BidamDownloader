@@ -27,7 +27,13 @@
 
 내려받은 영상의 저작권은 원저작자에게 있습니다. 각 플랫폼의 이용약관과 저작권법이 허용하는 범위(개인적 이용 등) 안에서만 사용하세요. 이 프로그램은 아무런 보증 없이 있는 그대로 제공되며, 사용에 따른 책임은 사용자에게 있습니다.
 
+## 라이선스
+
+개인 사용은 무료입니다. 자세한 조건은 [LICENSE](LICENSE) 를 보세요.
+
 ## 서드파티 고지
+
+포함된 제3자 소프트웨어와 각각의 라이선스는 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) 에 정리되어 있습니다.
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Unlicense
 - [FFmpeg](https://ffmpeg.org/) — 실행 파일에 `ffmpeg.exe` 를 동봉합니다. 동봉한 빌드의 라이선스(LGPL 2.1+ 또는 GPL 2+, 빌드 옵션에 따라 다름)를 따르며, 해당 소스는 [ffmpeg.org](https://ffmpeg.org/download.html) 에서 받을 수 있습니다.
