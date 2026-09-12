@@ -1,11 +1,11 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/goweare/BidamDownloader/releases/download/v1.2.0/BidamDownloader.exe",
-  "sha256": "c4dad9a5155ceb98ef2b00ee5d1e87277c1177843f899a35d18d804b81d0b78c",
-  "size": 58684156,
+  "version": "1.2.1",
+  "url": "https://github.com/goweare/BidamDownloader/releases/download/v1.2.1/BidamDownloader.exe",
+  "sha256": "f6e54b30465847990a8ed9d6ec6528f58ec66c8ceca5dd6aee1385cd09d11343",
+  "size": 58686047,
   "notes": [
     "앱 안에서 바로 업데이트할 수 있습니다 (릴리스 페이지에 직접 갈 필요 없음)",
-    "치지직 클립 다운로드 지원",
-    "취소 시 임시 파일 자동 정리"
+    "상단 메뉴 추가 - 정보 > 업데이트 확인",
+    "치지직 클립 다운로드 지원"
   ]
 }
